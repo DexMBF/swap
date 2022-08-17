@@ -29,7 +29,7 @@ export default function URLWarning() {
   return isMobile ? (
     <PhishAlert isActive={showURLWarning}>
       <div style={{ display: 'flex' }}>
-        <AlertTriangle style={{ marginRight: 6 }} size={14} /> Make sure the URL is
+        <AlertTriangle style={{ marginRight: 6 }} size={11} /> Make sure the URL is
         <code style={{ padding: '0 4px', display: 'inline', fontWeight: 'bold' }}>https://swap.metabook.finance</code>
       </div>
       <StyledClose size={14} onClick={toggleURLWarning} />
@@ -37,7 +37,7 @@ export default function URLWarning() {
   ) : window.location.hostname === 'swap.metabook.finance' ? (
     <PhishAlert isActive={showURLWarning}>
       <div style={{ display: 'flex' }}>
-        <AlertTriangle style={{ marginRight: 6 }} size={14} /> Always make sure the URL is
+        <AlertTriangle style={{ marginRight: 6 }} size={11} /> Always make sure the URL is
         <code style={{ padding: '0 4px', display: 'inline', fontWeight: 'bold' }}>https://swap.metabook.finance/</code> -
         bookmark it to be safe.
       </div>
