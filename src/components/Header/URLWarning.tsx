@@ -38,7 +38,7 @@ export default function URLWarning() {
     <PhishAlert isActive={showURLWarning}>
       <div style={{ display: 'flex' }}>
         <AlertTriangle style={{ marginRight: 6 }} size={11} /> Always make sure the URL is
-        <code style={{ padding: '0 4px', display: 'inline', line-height: '30px', fontWeight: 'bold' }}>https://swap.metabook.finance/</code> -
+        <code style={{ padding: '0 4px', display: 'inline', fontWeight: 'bold' }}>https://swap.metabook.finance/</code> -
         bookmark it to be safe.
       </div>
       <StyledClose size={11} onClick={toggleURLWarning} />
