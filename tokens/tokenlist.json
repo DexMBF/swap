@@ -20,16 +20,8 @@
     },
     {
       "name": "Meta Book Finance",
-      "address": "0x063e0c632f946f20303ed69a679318012fb729aa",
-      "symbol": "MBF-Old",
-      "decimals": 8,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/DexMBF/swap/master/media/Logo%20MBF%20New.png"
-    },
-    {
-      "name": "Meta Book Finance",
       "address": "0xe65a33048d3E12d1129F85CEa3eA7F97d3FB82E6",
-      "symbol": "MBF-New",
+      "symbol": "MBF 2.0",
       "decimals": 9,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/DexMBF/swap/master/media/Logo%20MBF%20New.png"
@@ -43,20 +35,20 @@
       "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
     },
     {
-      "name": "Cake",
-      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-      "symbol": "Cake",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
-    },
-    {
       "name": "Tether USD",
       "address": "0x55d398326f99059fF775485246999027B3197955",
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.pngg"
     },
     {
       "name": "Wrapped BNB",
