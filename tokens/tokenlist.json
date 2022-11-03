@@ -48,7 +48,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.pngg"
+      "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
     },
     {
       "name": "Wrapped BNB",
