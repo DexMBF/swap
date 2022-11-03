@@ -21,7 +21,7 @@
     {
       "name": "Meta Book Finance",
       "address": "0xe65a33048d3E12d1129F85CEa3eA7F97d3FB82E6",
-      "symbol": "MBF 2.0",
+      "symbol": "MBF",
       "decimals": 9,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/DexMBF/swap/master/media/Logo%20MBF%20New.png"
