@@ -27,6 +27,14 @@
       "logoURI": "https://raw.githubusercontent.com/DexMBF/swap/master/media/Logo%20MBF%20New.png"
     },
     {
+      "name": "Black Jack Inu",
+      "address": "0x8495436163cecc9f05e6b2d5d4b7f84b1a220abc",
+      "symbol": "MBF",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/DexMBF/swap/master/media/photo_2022-11-05%2021.05.13.jpeg"
+    },
+    {
       "name": "BUSD Token",
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "symbol": "BUSD",
