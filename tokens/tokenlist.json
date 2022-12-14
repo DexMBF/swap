@@ -27,12 +27,12 @@
       "logoURI": "https://raw.githubusercontent.com/DexMBF/swap/master/media/Logo%20MBF%20New.png"
     },
     {
-      "name": "Black Jack Inu",
-      "address": "0x8495436163cecc9f05e6b2d5d4b7f84b1a220abc",
-      "symbol": "BJI",
+      "name": "Shinobi Rat",
+      "address": "0x7de26cb13a68b39c61977a50e11c0b9d24e6b96e",
+      "symbol": "SHINOBI",
       "decimals": 9,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/DexMBF/swap/master/media/photo_2022-11-05%2021.05.13.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/DexMBF/swap/master/media/Shinobi%20Rat%20Token.jpeg"
     },
     {
       "name": "BUSD Token",
